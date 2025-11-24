@@ -34,7 +34,7 @@ Optical Fibers are available in different variety of materials. These materials 
 
 ▪ Feed about 2Vpp sinusoidal signal of 1 KHz from the function generator to the IN post of Analog Buffer.
 
-image
+<img width="716" height="294" alt="image" src="https://github.com/user-attachments/assets/72fea700-a99c-41ed-9dfa-e3bb04be70d8" />
 ▪ Connect the output post OUT of Analog Buffer to the post TX IN of Transmitter.
 
 ▪ Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
@@ -43,7 +43,7 @@ image
 
 ▪ Observe the detected signal at post ANALOG OUT on oscilloscope. Adjust Intensity control pot P2 Optical Power control potentiometer so that you receive signal of 2Vpp amplitude.
 
-image
+<img width="696" height="286" alt="image" src="https://github.com/user-attachments/assets/01ee210d-f880-4ee7-b18f-95b9a5679aed" />
 ▪ Measure the peak value of the received signal at ANALOG OUT terminal. Let this value be V1.
 
 ▪ Now replace 1 meter Fiber by 3 Meter Fiber. Do not disturb any settings. Again take the peak voltage reading and let it be V2.
