@@ -34,16 +34,15 @@ Optical Fibers are available in different variety of materials. These materials 
 
 ▪ Feed about 2Vpp sinusoidal signal of 1 KHz from the function generator to the IN post of Analog Buffer.
 
-<img width="716" height="294" alt="image" src="https://github.com/user-attachments/assets/72fea700-a99c-41ed-9dfa-e3bb04be70d8" />
+<img width="743" height="301" alt="image" src="https://github.com/user-attachments/assets/e72fbc49-0624-4b15-a4d4-65f39f04196d" />
 ▪ Connect the output post OUT of Analog Buffer to the post TX IN of Transmitter.
 
 ▪ Slightly unscrew the cap of SFH756V (660nm). Do not remove the cap from the connector. Once the cap is loosened, insert the one meter fiber into the cap. Now tighten the cap by screwing it back.
-
+<img width="716" height="294" alt="image" src="https://github.com/user-attachments/assets/72fea700-a99c-41ed-9dfa-e3bb04be70d8" />
 ▪ Connect the other end of the Fiber to detector SFH350V (Photo Transistor Detector) very carefully.
 
 ▪ Observe the detected signal at post ANALOG OUT on oscilloscope. Adjust Intensity control pot P2 Optical Power control potentiometer so that you receive signal of 2Vpp amplitude.
-
-<img width="696" height="286" alt="image" src="https://github.com/user-attachments/assets/01ee210d-f880-4ee7-b18f-95b9a5679aed" />
+ <img width="696" height="286" alt="image" src="https://github.com/user-attachments/assets/01ee210d-f880-4ee7-b18f-95b9a5679aed" />
 ▪ Measure the peak value of the received signal at ANALOG OUT terminal. Let this value be V1.
 
 ▪ Now replace 1 meter Fiber by 3 Meter Fiber. Do not disturb any settings. Again take the peak voltage reading and let it be V2.
@@ -59,6 +58,7 @@ Optical Fibers are available in different variety of materials. These materials 
 ▪ Measure the peak value of the received signal at ANALOG OUT terminal. Let this value be V1.
 
 ▪ Now replace 1 meter Fiber by 3 Meter Fiber. Do not disturb any settings. Again take the peak voltage reading and let it be V2.
+<img width="829" height="342" alt="image" src="https://github.com/user-attachments/assets/0ac9a0a2-7c28-4a01-9ffd-ff0f907fac57" />
 
 ▪ If a is the attenuation of the Fiber then we have. P1/P2 = V1/V2 = e [ -a (L1+L2 ) ] Where a = nepers/ Meter L1 = Fiber Length for V1 ; L2 = Fiber Length for V2 This a is for peak wavelength of 950nm ▪ Compare the two a values.
 
