@@ -83,9 +83,7 @@ Remove fiber cable from SFH450V (950nm) & SFH350V and insert one meter fiber bet
 
 ![opti2](https://github.com/user-attachments/assets/008e8809-9f9f-40ee-a538-7b8a3fbdd2f2)
 
-# Graph:
 
-![opti2](https://github.com/user-attachments/assets/3dcc88ad-8f77-4add-a667-4ecefab6aec3)
 
 # Result:
 Attenuation and bending loss characteristics verified.
